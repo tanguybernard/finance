@@ -28,3 +28,8 @@ ETF (Dist): Distribuant
 ## Source
 
 https://www.linkedin.com/pulse/comment-investir-en-bourse-de-fa%C3%A7on-ultra-passive-avec-gwenael-rohart/
+
+
+ETF 2024
+
+https://www.youtube.com/watch?v=whpfqsjM-C0
