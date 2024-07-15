@@ -9,6 +9,7 @@ source (27min30): https://www.youtube.com/watch?v=Nsn35WBv9yA
 ## ETF
 
 
+[ETF](./blob/main/etf.md)
 
 
 ## Lexique
@@ -18,12 +19,12 @@ __Stock picking__
 
 Le stock picking est une stratégie d’investissement qui consiste à sélectionner des actions individuelles pour votre portefeuille en fonction de leur valeur intrinsèque, plutôt que de suivre un indice ou un fonds commun. 
 
-__ETF__
 
-ETF (Acc): Capitalisant
 
-ETF (Dist): Distribuant
 
+## TODO
+
+iShares Physical Gold ETC (Backupé reelement par de l'or)
 
 ## Source
 
