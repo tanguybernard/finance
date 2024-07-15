@@ -9,7 +9,7 @@ source (27min30): https://www.youtube.com/watch?v=Nsn35WBv9yA
 ## ETF
 
 
-[ETF](./blob/main/etf.md)
+[ETF](../blob/main/etf.md)
 
 
 ## Lexique
