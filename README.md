@@ -4,19 +4,22 @@ __Quand tu reçois ton salaire, c'est important de se payer soit même avant de 
 
 source (27min30): https://www.youtube.com/watch?v=Nsn35WBv9yA
 
+
+
+
+
 ## S&P 500
+
+__Variantes__
+
+Il existe une version du S&P 500 sans les dividendes, une version avec les dividendes réinvestis (S&P 500 Gross Return ou GR, parfois appelé Total Return ou TR), et une version avec les dividendes réinvestis en prenant en compte l’impôt à la source (S&P 500 Net Return ou NR).
+
+Il faut aussi savoir que les actions et les indices ont des codes courts pour pouvoir les chercher plus rapidement (notamment sur les consoles Bloomberg). Le code du S&P 500 est SPX. Le code pour le S&P 500 Total Return est SPXT et le code pour le S&P 500 Net Total Return est SPTR500N. Vous pouvez aussi les utiliser sur certains sites internet, cependant ils ont parfois des codes différents.
 
 __S&P 500 (TR)__
 
-L'indice S&P 500 Total Return Index (SPTR) est un exemple d'indice de rendement total. 
-Le SPTR est différent de l'indice S&P standard (SPX), qui n'inclut pas les gains de dividendes.
-
 L'indice S&P 500 TR reflète le rendement que vous obtiendriez si vous investissiez dans les actions de l'indice S&P 500 (dans les proportions correctes) ET si tous les dividendes étaient réinvestis dans l'indice.
 
-__Un indice de rendement total__, contrairement à un __indice de prix__, reflète mieux les rendements réels qu'un investisseur détenant les composants de l'indice recevrait.
-
-
-https://www.investopedia.com/terms/t/total_return_index.asp
 
 ## ETF
 
