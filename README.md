@@ -11,6 +11,8 @@ __S&P 500 (TR)__
 L'indice S&P 500 Total Return Index (SPTR) est un exemple d'indice de rendement total. 
 Le SPTR est différent de l'indice S&P standard (SPX), qui n'inclut pas les gains de dividendes.
 
+L'indice S&P 500 TR reflète le rendement que vous obtiendriez si vous investissiez dans les actions de l'indice S&P 500 (dans les proportions correctes) ET si tous les dividendes étaient réinvestis dans l'indice.
+
 __Un indice de rendement total__, contrairement à un __indice de prix__, reflète mieux les rendements réels qu'un investisseur détenant les composants de l'indice recevrait.
 
 
