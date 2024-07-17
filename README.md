@@ -4,7 +4,17 @@ __Quand tu reçois ton salaire, c'est important de se payer soit même avant de 
 
 source (27min30): https://www.youtube.com/watch?v=Nsn35WBv9yA
 
+## S&P 500
 
+__S&P 500 (TR)__
+
+L'indice S&P 500 Total Return Index (SPTR) est un exemple d'indice de rendement total. 
+Le SPTR est différent de l'indice S&P standard (SPX), qui n'inclut pas les gains de dividendes.
+
+__Un indice de rendement total__, contrairement à un __indice de prix__, reflète mieux les rendements réels qu'un investisseur détenant les composants de l'indice recevrait.
+
+
+https://www.investopedia.com/terms/t/total_return_index.asp
 
 ## ETF
 
