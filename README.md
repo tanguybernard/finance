@@ -37,13 +37,13 @@ Price Earning Ratio
 Capitalisation/ Resultat net entreprise
 
 
-Exmple LVMH :
-
-Capitalisation 2023 : 366 368 milliards
-Resultat net 2023 : 15 174 milliards
-
-
-366368/15174 = 24.14
+    Exmple LVMH :
+    
+    Capitalisation 2023 : 366 368 milliards
+    Resultat net 2023 : 15 174 milliards
+    
+    
+    366368/15174 = 24.14
 
 On achete l'action 24,14 fois ses bénéfices
 
