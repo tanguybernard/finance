@@ -6,6 +6,10 @@ source (27min30): https://www.youtube.com/watch?v=Nsn35WBv9yA
 
 
 
+## Evaluer une action
+
+https://lautorite.qc.ca/grand-public/investissements/investir-par-soi-meme-ca-ne-simprovise-pas/connaissez-vous-les-principaux-ratios-pour-evaluer-les-actions
+
 
 
 ## S&P 500
@@ -29,7 +33,7 @@ L'indice S&P 500 TR reflète le rendement que vous obtiendriez si vous investiss
 
 ## Lexique
 
-__La valeur d'une entreprise : PER__
+__PER: Pour trouver des entreprises dont la valeur de l'action est pas cher__
 
 Price Earnings Ratio
 
@@ -54,6 +58,26 @@ source: https://www.youtube.com/watch?v=zbQPw9oWvFc
 
 Explication: https://www.youtube.com/watch?v=6-0VIVUAfds
 
+__PEG__
+
+Le ratio PEG permet d’évaluer une entreprise en comparant le ratio cours-bénéfice avec la croissance du bénéfice attendue.
+
+PEG = PER des 12 derniers mois / TxCroissance
+
+PEG = PER / taux de Croissance annuel du bénéfice par action
+
+
+GARP: Growth at reasonable price
+
+_Exemple_
+
+Si vous trouvez une entreprise dont la croissance au cours de ces cinq prochaines années est estimée à 15 % alors un ratio cours-bénéfice de 20 (PEG = 20/15 = 1.33) pourrait signifier qu’elle est bon marché pour l’instant.
+
+
+Un ratio PEG égal à 1 est considéré comme normal. Si une action présente un ratio PEG inférieur à 1 alors elle est sous-évaluée. Si le ratio PEG est supérieur à 1 alors l’action est plutôt chère.
+
+
+source : https://www.lynxbroker.fr/bourse/trading/analyse-fondamentale/peg-ratio-definition/
 
 __Volatilité__
 
