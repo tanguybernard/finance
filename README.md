@@ -8,6 +8,21 @@ source (27min30): https://www.youtube.com/watch?v=Nsn35WBv9yA
 
 ## Evaluer une action
 
+### Bénéfice par action
+
+Bénéfice par action = profits net d'une entreprise / nb d'actions ordinaires en circulation
+
+### Ratio cours-bénefice
+
+Ratio cours-bénefice = cours de l'action ordinaire / bénéfice net par action ordinaire
+
+### PEG
+
+Ratio cours-bénefice/croissance (ou PEG) = ratio cours-benefice / croissance projetée des bénéfices
+
+_Par exemple, une entreprise affichant un ratio cours-bénéfice de 30 et prévoyant une augmentation de ses bénéfices de 15 % pour la prochaine année aurait un ratio cours-bénéfice/croissance de 2 (30 divisé par 15). Une entreprise affichant un ratio cours-bénéfice de 30, mais prévoyant une augmentation de ses bénéfices annuels de 30 %, aurait un ratio cours-bénéfice/croissance de 1 (30 divisé par 30).
+Plus le ratio est faible, moins vous devez payer pour pouvoir profiter de la croissance projetée des bénéfices de l’entreprise._
+
 https://lautorite.qc.ca/grand-public/investissements/investir-par-soi-meme-ca-ne-simprovise-pas/connaissez-vous-les-principaux-ratios-pour-evaluer-les-actions
 
 
