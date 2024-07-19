@@ -32,7 +32,11 @@ Resultat net 2023 : 15700000000
 
 source : https://www.zonebourse.com/cours/action/LVMH-4669/fondamentaux/
 
-504 800 000
+
+Nombre de titres en circulation (2024):  507.811.296
+
+source: https://www.boursier.com/actions/actualites/news/lvmh-modification-du-nombre-d-actions-en-circulation-541448.html
+
 
 
 Bénéfice net par action =
