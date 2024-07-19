@@ -26,6 +26,37 @@ Plus le ratio est faible, moins vous devez payer pour pouvoir profiter de la cro
 https://lautorite.qc.ca/grand-public/investissements/investir-par-soi-meme-ca-ne-simprovise-pas/connaissez-vous-les-principaux-ratios-pour-evaluer-les-actions
 
 
+Exemple LVMH:
+
+Restaurant net : 15700000000
+504800000
+
+
+Bénéfice net par action =
+
+15700000000/504800000 = 31.10
+
+
+
+Bénéfice net par action	(2023) source Boursorama = 30,33 EUR
+
+Prix de l'action : 680 EUR 
+
+Ratio coût bénef =
+680/30 = 22,66
+
+
+Les investisseurs sont donc prêts à dépenser 22 EUR pour acheter 1 EUR du bénéfice par action de cette société.
+
+Ensuite :
+
+Tcam =
+ (Valeur finale / Valeur initiale) ^ (1 / Nombre d'années) - 1
+
+Année 2025 / année 2024 sur 1 an
+
+((17500/15800)^(1/2)-1) *100 = 10,76
+
 
 ## S&P 500
 
