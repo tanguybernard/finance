@@ -29,7 +29,7 @@ L'indice S&P 500 TR reflète le rendement que vous obtiendriez si vous investiss
 
 ## Lexique
 
-__PER__
+__La valeur d'une entreprise : PER__
 
 Price Earning Ratio
 
@@ -48,6 +48,9 @@ Capitalisation/ Resultat net entreprise
 On achete l'action 24,14 fois ses bénéfices
 
 Si le PER est sous la moyenne historique, l'action n'est pas trop cher.
+
+
+source: https://www.youtube.com/watch?v=zbQPw9oWvFc
 
 
 __Volatilité__
