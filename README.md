@@ -28,8 +28,11 @@ https://lautorite.qc.ca/grand-public/investissements/investir-par-soi-meme-ca-ne
 
 Exemple LVMH:
 
-Restaurant net : 15700000000
-504800000
+Resultat net 2023 : 15700000000
+
+source : https://www.zonebourse.com/cours/action/LVMH-4669/fondamentaux/
+
+504 800 000
 
 
 Bénéfice net par action =
