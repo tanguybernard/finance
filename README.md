@@ -31,7 +31,7 @@ L'indice S&P 500 TR reflète le rendement que vous obtiendriez si vous investiss
 
 __La valeur d'une entreprise : PER__
 
-Price Earning Ratio
+Price Earnings Ratio
 
 
 Capitalisation/ Resultat net entreprise
