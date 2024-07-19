@@ -30,6 +30,12 @@ L'indice S&P 500 TR reflète le rendement que vous obtiendriez si vous investiss
 ## Lexique
 
 
+__Volatilité__
+
+La volatilité d’une action mesure l’amplitude des variations de son cours sur un certain horizon temporel, généralement court (jour, semaine, mois). Elle permet d’estimer le risque d’une action, c’est-à-dire la probabilité que son prix varie de manière importante.
+
+Les actions avec une volatilité élevée peuvent offrir des opportunités de rentabilité élevée, mais également des pertes importantes.
+
 __Stock picking__
 
 Le stock picking est une stratégie d’investissement qui consiste à sélectionner des actions individuelles pour votre portefeuille en fonction de leur valeur intrinsèque, plutôt que de suivre un indice ou un fonds commun. 
@@ -37,7 +43,7 @@ Le stock picking est une stratégie d’investissement qui consiste à sélectio
 
 
 
-## TODO
+## Notes
 
 iShares Physical Gold ETC (Backupé reelement par de l'or)
 
