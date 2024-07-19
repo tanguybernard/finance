@@ -29,6 +29,26 @@ L'indice S&P 500 TR reflète le rendement que vous obtiendriez si vous investiss
 
 ## Lexique
 
+__PER__
+
+Price Earning Ratio
+
+
+Capitalisation/ Resultat net entreprise
+
+
+Exmple LVMH :
+
+Capitalisation 2023 : 366 368 milliards
+Resultat net 2023 : 15 174 milliards
+
+
+366368/15174 = 24.14
+
+On achete l'action 24,14 fois ses bénéfices
+
+Si le PER est sous la moyenne historique, l'action n'est pas trop cher.
+
 
 __Volatilité__
 
