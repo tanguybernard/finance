@@ -52,6 +52,8 @@ Si le PER est sous la moyenne historique, l'action n'est pas trop cher.
 
 source: https://www.youtube.com/watch?v=zbQPw9oWvFc
 
+Explication: https://www.youtube.com/watch?v=6-0VIVUAfds
+
 
 __Volatilité__
 
