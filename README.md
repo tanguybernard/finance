@@ -16,7 +16,7 @@ Bénéfice par action = profits net d'une entreprise / nb d'actions ordinaires e
 
 Ratio cours-bénefice = cours de l'action ordinaire / bénéfice net par action ordinaire
 
-### PEG
+### PEG (style de gestion GARP)
 
 Ratio cours-bénefice/croissance (ou PEG) = ratio cours-benefice / croissance projetée des bénéfices
 
