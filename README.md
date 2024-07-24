@@ -6,6 +6,14 @@ source (27min30): https://www.youtube.com/watch?v=Nsn35WBv9yA
 
 
 
+## Info
+
+Tu peux voir le PEG ratio et le Future 3-5Y Total Revenue Growth Rate :
+
+https://www.gurufocus.com/stock/AMZN/summary
+
+
+
 ## Evaluer une action
 
 ### Bénéfice par action
