@@ -2,14 +2,14 @@
 
 
 | Nom  | Valeur          | Description 
-| :---------------------------------------------- |:----------------|:---------------|
+| :---------------------------------------------- |:-----------------------|---------------|
 | Chiffre d’affaires                              | 1 000 000       |
 | Achats                                          | – 400 000       |
 | Charges externes                                | – 100 000       |
 | Autres charges d’exploitation                   | – 50 000        |
 | Impôts et taxes                                 | – 30 000        |
 | Charges de personnel                            | – 200 000       |
-| Dotations aux amortissements et provisions      | – 70 000        | Une dépense comptable récurrente enregistrée sur une période donnée dans le but de refléter la réduction de la valeur d'un actif.  |
+| Dotations aux amortissements et provisions      | – 70 000        | Amortissement d'un ordinateur 2000 euros sur 4 ans, donc -400 euros |
 | **Résultat d’exploitation**                     | **150 000**     |
 | Produits financiers                             | 0               |
 | Charges financières                             | – 50 000        |
