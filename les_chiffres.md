@@ -23,10 +23,14 @@
 | **Résultat net comptable**                      | **66 667**      |
 
 
-Voici le détail du calcul de l’EBITDA :
+Calcul __EBITDA__ :
 
 Méthode additive = 66 667 + 33 333 + 70 000 + 30 000 + 50 000 = 250 000 €
-Méthode soustractive = 1 000 000 – 400 000 – 100 000 – 50 000 – 200 000 = 250 000 €
+Méthode soustractive = 1 000 000 – 400 000 – 100 000 – 50 000 (charges exploit) – 200 000 = 250 000 €
+
+Calcul __EBIT__ :
+
+EBITDA – 70 000 = 180 000 €
 
 
 Ce qu'il n'y a pas dans l'ebitda :
