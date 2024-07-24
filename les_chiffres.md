@@ -22,6 +22,4 @@
 
 
 
-source :
-
-https://www.compta-facile.com/ebitda-definition-calcul-utilite/
+source : https://www.compta-facile.com/ebitda-definition-calcul-utilite/
