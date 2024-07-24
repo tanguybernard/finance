@@ -40,3 +40,5 @@ Ce qu'il n'y a pas dans l'ebitda :
 
 
 source : https://www.compta-facile.com/ebitda-definition-calcul-utilite/
+
+https://www.compta-online.com/comment-calculer-ebit-et-ebitda-ao3671
