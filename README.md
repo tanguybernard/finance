@@ -143,6 +143,12 @@ __Stock picking__
 Le stock picking est une stratégie d’investissement qui consiste à sélectionner des actions individuelles pour votre portefeuille en fonction de leur valeur intrinsèque, plutôt que de suivre un indice ou un fonds commun. 
 
 
+__Danone  vs Danone (ADR)__
+
+ADR: American Depositary Receipt
+
+Un ADR représente une certaine quantité d'actions ordinaires de Danone détenues par une banque dépositaire américaine. Cette banque émet les ADR sur le marché américain pour faciliter l'accès aux actions de Danone.
+
 
 
 ## Notes
