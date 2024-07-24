@@ -86,6 +86,10 @@ __S&P 500 (TR)__
 L'indice S&P 500 TR reflète le rendement que vous obtiendriez si vous investissiez dans les actions de l'indice S&P 500 (dans les proportions correctes) ET si tous les dividendes étaient réinvestis dans l'indice.
 
 
+__Xetra__
+
+BAE Systems est une entreprise britannique de défense, sécurité et aéronautique qui est cotée à la fois sur le marché __XETRA__ (Bourse allemande) et sur le London Stock Exchange (LSE).
+
 ## ETF
 
 
