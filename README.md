@@ -8,13 +8,38 @@ source (27min30): https://www.youtube.com/watch?v=Nsn35WBv9yA
 
 ## Info
 
-Tu peux voir le PEG ratio et le Future 3-5Y Total Revenue Growth Rate :
+
+https://rendementbourse.com/
+
+Ex avec BAE Systems:
+
+https://rendementbourse.com/bsp-bae-systems-plc-ls-025/finances
+
+
+Tu peux voir le PEG ratio et le Future 3-5Y Total Revenue Growth Rate (mais abonnement :/ ) :
 
 https://www.gurufocus.com/stock/AMZN/summary
 
+## Secteur
 
+
+### Non Cyclique
+
+- Biens de con de base (Carrefour, Danone)
+- Services aux collectivités publiques (EDF)
+
+### Cyclique  (sont celles dont les consommateurs peuvent décider d'areter de consommer les produits en période de cruse)
+
+- Luxe
+- Finance
+- Industrie (automobile par exemple)
 
 ## Evaluer une action
+
+Action de qualité
+
+Action plus/value
+
 
 ### Bénéfice par action
 
@@ -175,3 +200,11 @@ https://www.linkedin.com/pulse/comment-investir-en-bourse-de-fa%C3%A7on-ultra-pa
 ETF 2024
 
 https://www.youtube.com/watch?v=whpfqsjM-C0
+
+
+
+
+## A regarder
+
+
+https://graphseobourse.fr/classement-des-meilleures-actions-en-bourse/
