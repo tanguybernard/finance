@@ -202,6 +202,11 @@ ETF 2024
 https://www.youtube.com/watch?v=whpfqsjM-C0
 
 
+Secteur cyclique, non cyclique
+
+https://finance-heros.fr/actions-cycliques/
+
+
 
 
 ## A regarder
