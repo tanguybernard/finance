@@ -12,6 +12,8 @@ ETF (Acc): Capitalisant
 
 ETF (Dist): Distribuant
 
+ETF Durable : ESG (Critères environnementaux, sociaux et de gouvernance)
+
 
 ### Réplication
 
