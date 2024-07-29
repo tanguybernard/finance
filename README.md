@@ -123,6 +123,11 @@ BAE Systems est une entreprise britannique de défense, sécurité et aéronauti
 
 ## Lexique
 
+__Bear Market__
+
+Un bear market est une phase du marché financier caractérisée par une tendance prolongée à la baisse des prix des valeurs cotées, généralement d’au moins 20%.
+
+
 __PER: Pour trouver des entreprises dont la valeur de l'action est pas cher__
 
 Price Earnings Ratio
