@@ -8,10 +8,21 @@ Vous investissez donc ces 500€ dans une ligne de trackers. Le mois suivant, si
 
 Même chose si le cours du tracker a baissé de 10% pour s'établir à 450€ : vous investissez alors 550€. Et plus son cours baisse, plus vous investissez.
 
-On se base toujours sur la valeur originelle du tout premier achat.
+On se base toujours sur la __valeur originelle__ du tout premier achat.
 
 
 Conseil : "Si la valeur a doublé, peut etre mieux vaut ne rien acheter".
+
+
+## Choisir la valeur
+
+Plusieurs méthodes :
+
+Exemple __Peter Lynch Fair Value__	:
+
+"Peter Lynch Fair Value" utilise le ratio PEG pour évaluer si une action est sous-évaluée ou surévaluée par rapport à son potentiel de croissance des bénéfices. C'est une approche simple et efficace pour les investisseurs qui cherchent des actions de croissance à des prix raisonnables.
+
+
 
 
 ## Outils
