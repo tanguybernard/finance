@@ -11,7 +11,7 @@ Même chose si le cours du tracker a baissé de 10% pour s'établir à 450€ : 
 On se base toujours sur la valeur originelle du tout premier achat.
 
 
-Conseil : "Si la valeur a doublé, peut etre mieux vaut ne rien acheté".
+Conseil : "Si la valeur a doublé, peut etre mieux vaut ne rien acheter".
 
 
 ## Outils
