@@ -36,9 +36,6 @@ Le mois 0 j'achete 2 action puis chaque moi je veux augmenter de 90 euros.
 La valeur cible augmentera de 90 euros chaque mois.
 
 
-
-Voici le tableau en format Markdown :
-
 | Mois    | Valeur cible (euros) | Prix de l'action (euros) | Valeur actuelle (euros) | Actions à acheter/vendre | Nouvelles actions | Actions totales | Nouvelle valeur (euros) |
 |---------|-----------------------|--------------------------|-------------------------|-------------------------|-------------------|-----------------|-------------------------|
 | Initial | 180                   | 90 | 180                     | -                       | 2                 | 2               | 180                     |
@@ -46,6 +43,13 @@ Voici le tableau en format Markdown :
 | 2       | 360                   | 115| 2.842 * 115 = 327.83  | (360 - 327.83) / 115 = 0.28                    | 2.842 + 0.28 = 3.122| 3.122| 3.122 * 115 = 359.03      |
 | 3       | 450                   | 80   | 3.122 * 80 = 249.76                  | (450 - 249.76) / 80 = 2.503                   | 2.503     | 5.625  | 450             |
 
+
+
+Total investi = 180 + 79.99 (= 0.842*95) + 32.20 + 200.24 = 492.43 euros
+
+450 - 492.43 = -42.43 euros
+
+Donc, si vous vendez au bout du mois 3, vous subirez une perte de 42.43 euros.
 
 
 ## Outils
