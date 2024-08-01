@@ -23,6 +23,29 @@ Exemple __Peter Lynch Fair Value__	:
 "Peter Lynch Fair Value" utilise le ratio PEG pour évaluer si une action est sous-évaluée ou surévaluée par rapport à son potentiel de croissance des bénéfices. C'est une approche simple et efficace pour les investisseurs qui cherchent des actions de croissance à des prix raisonnables.
 
 
+## Idée Amazon
+
+Prix du titre Amazon le 1er aout 2024:  176 euros
+Peter Lync Fair Value: 90,50 USD soit arrondi : 84 euros
+
+Imaginons je commence a investir debut avril 2023
+
+Le mois 0 j'achete 2 action puis chaque moi je veux augmenter de 90 euros.
+
+
+La valeur cible augmentera de 90 euros chaque mois.
+
+
+
+Voici le tableau en format Markdown :
+
+| Mois    | Valeur cible (euros) | Prix de l'action (euros) | Valeur actuelle (euros) | Actions à acheter/vendre | Nouvelles actions | Actions totales | Nouvelle valeur (euros) |
+|---------|-----------------------|--------------------------|-------------------------|-------------------------|-------------------|-----------------|-------------------------|
+| Initial | 180                   | 90 | 180                     | -                       | 2                 | 2               | 180                     |
+| 1       | 270                   | 95 | 190                     | (270 - 190) / 95 = 0.842                | 0.842 | 2 + 0.842 = 2.842| 2.842 * 95 = 270            |
+| 2       | 360                   | 115| 2.842 * 115 = 327.83  | (360 - 327.83) / 115 = 0.28                    | 2.842 + 0.28 = 3.122| 3.122| 3.122 * 115 = 359.03      |
+| 3       | 450                   | 80   | 3.122 * 80 = 249.76                  | (450 - 249.76) / 80 = 2.503                   | 2.503     | 5.625  | 450             |
+
 
 
 ## Outils
@@ -36,3 +59,5 @@ https://valueinvesting.io/AMZN/valuation/intrinsic-value
 ## Credits
 
 https://www.transactionbourse.com/value-averaging/
+
+https://www.investopedia.com/articles/stocks/07/dcavsva.asp
