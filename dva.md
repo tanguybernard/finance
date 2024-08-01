@@ -11,13 +11,17 @@ Même chose si le cours du tracker a baissé de 10% pour s'établir à 450€ : 
 On se base toujours sur la valeur originelle du tout premier achat.
 
 
+Conseil : "Si la valeur a doublé, peut etre mieux vaut ne rien acheté".
+
+
 ## Outils
 
 https://www.alphaspread.com/security/nasdaq/amzn/summary
+
 
 https://valueinvesting.io/AMZN/valuation/intrinsic-value
 
 
 ## Credits
 
-https://investiforum.fr/value-averaging-alternative-dca-investir-bourse/
+https://www.transactionbourse.com/value-averaging/
