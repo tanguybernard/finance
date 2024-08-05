@@ -8,7 +8,7 @@
 | Charges externes                                | – 100 000       ||
 | Autres charges d’exploitation                   | – 50 000        ||
 | Charges de personnel                            | – 200 000       ||
-| <span style="color:red">EBITDA</span>          | <span style="color:blue">250 000</span>     | EBITDA |
+| **EBITDA**          | **250 000**     | EBITDA |
 | Impôts et taxes                                 | – 30 000        ||
 | Dotations aux amortissements et provisions      | – 70 000        | Amortissement d'un ordinateur 2000 euros sur 4 ans, donc -500 euros |
 | **Résultat d’exploitation**                     | **150 000**     ||
