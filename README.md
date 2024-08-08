@@ -6,7 +6,7 @@ source (27min30): https://www.youtube.com/watch?v=Nsn35WBv9yA
 
 
 
-## Action à regardé
+## Action à regarder :
 
 Qualité :
 
