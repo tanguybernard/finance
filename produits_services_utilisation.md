@@ -1,6 +1,6 @@
 # Produits
 
-- Télphone/ PC : Huawei
+- Télphone/ PC : Huawei, Apple
 - Produits alimentaire (Poulet, patate, fruits, légumes,thé vert, lessive... ^^)
 - Vetements (Intersport, Jack and Jones, Decathlon...)
 - Auto
