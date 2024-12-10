@@ -65,6 +65,17 @@ Bénéfice par action = profits net d'une entreprise / nb d'actions ordinaires e
 
 Ratio cours-bénefice = cours de l'action ordinaire / bénéfice net par action ordinaire
 
+### ROE
+
+Le ROE (Return on Equity), ou rendement des capitaux propres, est un indicateur financier utilisé pour évaluer la rentabilité d'une entreprise par rapport aux capitaux propres investis par les actionnaires. 
+
+  ROE = (Résultat net / Capitaux Propres) * 100
+
+- Un ROE élevé indique que l'entreprise est efficace dans l'utilisation de ses capitaux propres pour générer des bénéfices.
+- Un ROE faible peut suggérer une faible rentabilité ou une mauvaise gestion des ressources propres.
+- Un ROE supérieur à __15 %__ est souvent considéré comme très attractif dans de nombreux secteurs.
+
+
 ### PEG (style de gestion GARP)
 
 Ratio cours-bénefice/croissance (ou PEG) = ratio cours-benefice / croissance projetée des bénéfices
